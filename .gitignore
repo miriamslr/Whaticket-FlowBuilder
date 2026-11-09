@@ -1,0 +1,10 @@
+# Archives
+*.zip
+backend/*.zip
+frontend/*.zip
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
